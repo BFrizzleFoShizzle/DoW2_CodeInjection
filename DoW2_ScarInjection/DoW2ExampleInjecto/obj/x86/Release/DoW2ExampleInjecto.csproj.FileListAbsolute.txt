@@ -1,0 +1,8 @@
+E:\Daten\scar example\InjectionExample\DoW2ExampleInjecto\bin\Release\DoW2ExampleInjecto.exe
+E:\Daten\scar example\InjectionExample\DoW2ExampleInjecto\bin\Release\DoW2ExampleInjecto.pdb
+E:\Daten\scar example\InjectionExample\DoW2ExampleInjecto\bin\Release\cope.Debug.dll
+E:\Daten\scar example\InjectionExample\DoW2ExampleInjecto\bin\Release\cope.dll
+E:\Daten\scar example\InjectionExample\DoW2ExampleInjecto\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Daten\scar example\InjectionExample\DoW2ExampleInjecto\obj\x86\Release\DoW2ExampleInjecto.exe
+E:\Daten\scar example\InjectionExample\DoW2ExampleInjecto\obj\x86\Release\DoW2ExampleInjecto.pdb
+E:\Daten\scar example\InjectionExample\DoW2ExampleInjecto\bin\Release\DoW2ExampleInjecto.exe.config

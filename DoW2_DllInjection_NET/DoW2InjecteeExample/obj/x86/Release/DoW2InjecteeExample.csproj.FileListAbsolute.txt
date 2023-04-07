@@ -1,0 +1,5 @@
+E:\Daten\Visual Studio 2010\DoW2InjecteeExample\bin\x86\Release\DoW2InjecteeExample.dll
+E:\Daten\Visual Studio 2010\DoW2InjecteeExample\bin\x86\Release\DoW2InjecteeExample.pdb
+E:\Daten\Visual Studio 2010\DoW2InjecteeExample\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Daten\Visual Studio 2010\DoW2InjecteeExample\obj\x86\Release\DoW2InjecteeExample.dll
+E:\Daten\Visual Studio 2010\DoW2InjecteeExample\obj\x86\Release\DoW2InjecteeExample.pdb
