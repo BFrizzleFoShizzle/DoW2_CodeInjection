@@ -40,3 +40,6 @@ This project is a DLL injector, specifically written for DoW2. It has multiple b
 It appears to  have the same case sensitivity  issue as the injector in `DoW2_DllInjection_NET` - I made a fix for this, but the injector appears to have other issues as well.  
 The injector also contains the same `Xlive` bypass as in `DoW2_DllInjection_NET`.  
 The DLL files in this repo can be injected via any DLL injector, so I have no plans to fix `DoW2_DllLoad` - there's plenty of other working DLL injectors out there that you can use in its place.
+
+# Disclaimer
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
